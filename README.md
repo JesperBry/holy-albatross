@@ -30,6 +30,7 @@ class Example extends Component {
 ```
 
 ### Available props
+See example with props [here](https://github.com/JesperBry/holy-albatross/blob/master/example/src/App.js)
 
 | Prop | Type Expected | Default value |  Description |
 | ---- | ---- | ------------- | ------------ |
