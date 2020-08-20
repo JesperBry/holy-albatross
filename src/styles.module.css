@@ -1,0 +1,4 @@
+.container > * {
+  flex-grow: 1;
+  flex-basis: calc((40rem - 100%) * 999);
+}
