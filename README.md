@@ -15,12 +15,16 @@ npm install --save holy-albatross
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'holy-albatross'
-import 'holy-albatross/dist/index.css'
+import { Container } from 'holy-albatross';
+import 'holy-albatross/dist/index.css';
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return (
+      <Container>
+        ... YOUR UI ELEMENTS
+      </Container>
+    );
   }
 }
 ```
