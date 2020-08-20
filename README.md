@@ -5,9 +5,10 @@
 [![NPM](https://img.shields.io/npm/v/holy-albatross.svg)](https://www.npmjs.com/package/holy-albatross) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
+Download [latest.tgz](https://github.com/JesperBry/holy-albatross/releases/), then
 
 ```bash
-npm install --save holy-albatross
+npm install --save <path to holy-albatross-@latest.tgz>
 ```
 
 ## Usage
