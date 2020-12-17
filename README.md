@@ -33,13 +33,13 @@ class Example extends Component {
 ### Available props
 See example with props [here](https://github.com/JesperBry/holy-albatross/blob/master/example/src/App.js)
 
-| Prop | Type Expected | Default value |  Description |
+| Key | Type Expected | Default value |  Description |
 | ---- | ---- | ------------- | ------------ |
-| gap | String/Number | '1' | Controls the gap between the child components inside the container. Expects a number or a quoted number ('1') |
-| gutter | Boolean | False | When set the container gets a default side gutter of 25% |
-| maxWidth | String/Number | 'none' | Sets the maxWidth for the container (using rem as units). Expects a number or a quoted number ('1') |
-| paddingTop | String/Number | 'none' | Sets the top padding for the container (using rem as units). Expects a number or a quoted number ('1') |
-| paddingBottom | String/Number | 'none' | Sets the bottom padding for the container (using rem as units). Expects a number or a quoted number ('1') |
+| `gap` | String/Number | '1' | Controls the gap between the child components inside the container. Expects a number or a quoted number ('1') |
+| `gutter` | Boolean | False | When set the container gets a default side gutter of 25% |
+| `maxWidth` | String/Number | 'none' | Sets the maxWidth for the container (using rem as units). Expects a number or a quoted number ('1') |
+| `paddingTop` | String/Number | 'none' | Sets the top padding for the container (using rem as units). Expects a number or a quoted number ('1') |
+| `paddingBottom` | String/Number | 'none' | Sets the bottom padding for the container (using rem as units). Expects a number or a quoted number ('1') |
 
 ## License
 
